@@ -1,0 +1,27 @@
+.max-height {
+     min-height: 100vh;
+}
+
+.card {
+     margin-top: 2rem;
+} 
+
+.person-icon {
+     font-size: 1.5rem;
+}
+
+.single-info {
+     font-size: 1rem;
+}
+
+.badge {
+     padding: 1rem;
+     border-radius: 0%;
+     font-size: 1.2rem;
+}
+
+.btn {
+     background: orange;
+     color: black;
+     font-weight: 700;
+}
